@@ -1,0 +1,37 @@
+[
+    {
+        "picture": "images/a-sutil-arte-de-ligar-o-foda-se-2017-mark-manson-et-al-224p-pt.jpg",
+        "title": "A sutil arte de ligar o foda-se",
+        "price": "R$ 28,99"
+    },
+    {
+        "picture": "images/a-elite-do-atraso-2017-jesse-souza-leya-227p-pt.png",
+        "title": "A elite do atraso",
+        "price": "R$ 28,99"
+    },
+    {
+        "picture": "images/me-poupe-2018-nathalia-arcuri-sextante-176p-pt.png",
+        "title": "Me poupe!",
+        "price": "R$ 28,99"
+    },
+    {
+        "picture": "images/steve-jobs-2016-steve-gold-createspace-independent-publishing-platform-104p-en.png",
+        "title": "Steve Jobs",
+        "price": "R$ 28,99"
+    },
+    {
+        "picture": "images/o-cacador-de-pipas-2005-khaled-hosseini-ediouro-publicacoes-365p-pt.jpg",
+        "title": "O caçador de pipas",
+        "price": "R$ 28,99"
+    },
+    {
+        "picture": "images/o-segredo-da-livraria-de-paris-2021-lily-graham-gutenberg-206p.jpg",
+        "title": "O segredo da livraria de paris",
+        "price": "R$ 28,99"
+    },
+    {
+        "picture": "images/jack.jpg",
+        "title": "Jack o estripador",
+        "price": "R$ 28,99"
+    }
+]
